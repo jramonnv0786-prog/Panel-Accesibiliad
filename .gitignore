@@ -1,0 +1,11 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Dependencias (por si se instala JSDoc con npm)
+node_modules/
